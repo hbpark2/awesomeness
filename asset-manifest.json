@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/hbpark2.github.io/awesomeness/static/js/main.360e31bd.chunk.js",
+    "main.js.map": "/hbpark2.github.io/awesomeness/static/js/main.360e31bd.chunk.js.map",
+    "runtime-main.js": "/hbpark2.github.io/awesomeness/static/js/runtime-main.663bec99.js",
+    "runtime-main.js.map": "/hbpark2.github.io/awesomeness/static/js/runtime-main.663bec99.js.map",
+    "static/js/2.21d49a36.chunk.js": "/hbpark2.github.io/awesomeness/static/js/2.21d49a36.chunk.js",
+    "static/js/2.21d49a36.chunk.js.map": "/hbpark2.github.io/awesomeness/static/js/2.21d49a36.chunk.js.map",
+    "index.html": "/hbpark2.github.io/awesomeness/index.html",
+    "precache-manifest.542f109cf3d30ab685b65df43e6de94b.js": "/hbpark2.github.io/awesomeness/precache-manifest.542f109cf3d30ab685b65df43e6de94b.js",
+    "service-worker.js": "/hbpark2.github.io/awesomeness/service-worker.js",
+    "static/js/2.21d49a36.chunk.js.LICENSE.txt": "/hbpark2.github.io/awesomeness/static/js/2.21d49a36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.663bec99.js",
+    "static/js/2.21d49a36.chunk.js",
+    "static/js/main.360e31bd.chunk.js"
+  ]
+}
